@@ -10,7 +10,7 @@
 	"contact": {
 		"homepage": "https://modrinth.com/mod/unlimited-chat-history",
 		"sources": "https://github.com/FoxatMe/Unlimited-Chat-History",
-		"ussues": "https://github.com/FoxatMe/Unlimited-Chat-History/issues"
+		"issues": "https://github.com/FoxatMe/Unlimited-Chat-History/issues"
 	},
 	"license": "MIT",
 	"icon": "assets/unlimited-chat-history/icon.png",
@@ -21,7 +21,6 @@
 	"depends": {
 		"fabricloader": ">=0.19.2",
 		"minecraft": "~26.1",
-		"java": ">=25",
-		"fabric-api": "*"
+		"java": ">=25"
 	}
 }
