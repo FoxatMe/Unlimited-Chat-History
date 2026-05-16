@@ -1,0 +1,1 @@
+Lightweight client-side Minecraft mod that increases chat history up to 32768 messages.
